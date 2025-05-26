@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>名古屋行程規劃器</title>
+  <style>
+    body { font-family: sans-serif; padding: 2em; background: #f8f8f8; }
+    h1 { color: #2c3e50; }
+    .section { margin-bottom: 2em; }
+    ul { list-style: none; padding: 0; }
+    li { background: #fff; margin: 0.5em 0; padding: 1em; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    a { text-decoration: none; color: #3498db; }
+  </style>
+</head>
+<body>
+  <h1>名古屋行程規劃器</h1>
+
+  <div class="section">
+    <h2>🏯 景點推薦</h2>
+    <ul>
+      <li><strong>名古屋城</strong> - <a href="https://www.google.com/maps?q=35.1850,136.8997" target="_blank">地圖導航</a></li>
+      <li><strong>熱田神宮</strong> - <a href="https://www.google.com/maps?q=35.1264,136.9066" target="_blank">地圖導航</a></li>
+      <li><strong>德川園</strong> - <a href="https://www.google.com/maps?q=35.1803,136.9362" target="_blank">地圖導航</a></li>
+      <li><strong>日本樂高樂園</strong> - <a href="https://www.google.com/maps?q=35.0494,136.8807" target="_blank">地圖導航</a></li>
+      <li><strong>吉卜力公園</strong> - <a href="https://www.google.com/maps?q=35.1646,137.1101" target="_blank">地圖導航</a></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🍽️ 美食推薦</h2>
+    <ul>
+      <li><strong>あつた蓬萊軒（鰻魚飯）</strong> - <a href="https://www.google.com/maps?q=35.1275,136.9062" target="_blank">地圖導航</a></li>
+      <li><strong>矢場とん（味噌豬排）</strong> - <a href="https://www.google.com/maps?q=35.1614,136.9056" target="_blank">地圖導航</a></li>
+      <li><strong>山本屋總本家（味噌煮込み烏龍麵）</strong> - <a href="https://www.google.com/maps?q=35.1681,136.9038" target="_blank">地圖導航</a></li>
+      <li><strong>世界の山ちゃん（雞翅）</strong> - <a href="https://www.google.com/maps?q=35.1698,136.9022" target="_blank">地圖導航</a></li>
+      <li><strong>HARBS（甜點）</strong> - <a href="https://www.google.com/maps?q=35.1699,136.9063" target="_blank">地圖導航</a></li>
+    </ul>
+  </div>
+</body>
+</html>
